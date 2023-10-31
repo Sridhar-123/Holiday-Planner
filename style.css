@@ -294,7 +294,7 @@ header .content .cont_bx button:hover{
     .offers{
       width:60%;
       height:auto;
-      border: 1px solid #000;
+     /* border: 1px solid #000;*/
       margin:auto;
       margin-top: 100px;
       transition: .5s linear;
